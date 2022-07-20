@@ -159,3 +159,7 @@ Githubに公開されているシステム（ https://github.com/cupslab/passwor
 
 ## Tanらのサーベイ文言の日本語化
 実験参加者への説明文書や質問子を日本語に翻訳した。
+
+|原文|日本語訳|
+----|----
+|In this study you will be asked to create a password and fill out a 3-minute survey for a 55 cent payment.We will contact you to come back a few days later to try to use your password to log in again and fill out another survey for a 100 cent bonus payment. Imagine that an online account that you care a lot about, such as your main email account, is requiring that all users change their passwords. We will ask you to use this password in a few days to log in again, so it is important that you remember your new password. Please take the steps you would normally take to create and remember your important passwords, and protect this password as you normally would protect your important passwords. Please behave as you would if this was your real password! NOTE: This password is only being used for the purpose of this study and you should not use a password that you use for your actual email account.|この調査では、ある状況を想定した中でパスワードを作成していただき、その後3分程度のアンケートに回答をしていただきたいと思います。調査にご協力いただければランサーズを通して100円の報酬をお支払いします。想定する状況は、あなたが主に使っている電子メールのように大切にしているオンラインアカウントにおいて、サービスを使っている全ユーザがパスワードの変更を要求されている、というものです。実験にあたって、あなたの本当のパスワードであるかのような作業をしていただきたく思います。また、2日後に今回の実験の参加者に対する別実験を予定しています。その際、本日作成したパスワードを利用しますので、パスワードを記憶又は記録してください。次のページからパスワード作成の作業を開始します。この実験に参加されますか?参加することに同意される場合は先にお進みください。参加されない場合はこの時点で終了していただいて構いません。注：普段利用しているIDやパスワードは決して入力しないでください。|
