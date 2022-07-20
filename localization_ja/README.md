@@ -163,3 +163,23 @@ Githubに公開されているシステム（ https://github.com/cupslab/passwor
 |原文|日本語訳|
 ----|----
 |In this study you will be asked to create a password and fill out a 3-minute survey for a 55 cent payment.We will contact you to come back a few days later to try to use your password to log in again and fill out another survey for a 100 cent bonus payment. Imagine that an online account that you care a lot about, such as your main email account, is requiring that all users change their passwords. We will ask you to use this password in a few days to log in again, so it is important that you remember your new password. Please take the steps you would normally take to create and remember your important passwords, and protect this password as you normally would protect your important passwords. Please behave as you would if this was your real password! NOTE: This password is only being used for the purpose of this study and you should not use a password that you use for your actual email account.|この調査では、ある状況を想定した中でパスワードを作成していただき、その後3分程度のアンケートに回答をしていただきたいと思います。調査にご協力いただければランサーズを通して100円の報酬をお支払いします。想定する状況は、あなたが主に使っている電子メールのように大切にしているオンラインアカウントにおいて、サービスを使っている全ユーザがパスワードの変更を要求されている、というものです。実験にあたって、あなたの本当のパスワードであるかのような作業をしていただきたく思います。また、2日後に今回の実験の参加者に対する別実験を予定しています。その際、本日作成したパスワードを利用しますので、パスワードを記憶又は記録してください。次のページからパスワード作成の作業を開始します。この実験に参加されますか?参加することに同意される場合は先にお進みください。参加されない場合はこの時点で終了していただいて構いません。注：普段利用しているIDやパスワードは決して入力しないでください。|
+|Regardless of how you entered your password on the previous screen, did you do any of the following afteryou created your password? (Choose all that apply) | （この設問はTanらのユーザ実験の第２部の設問である。この設問は本ユーザ実験用に変更したため、原文とは文章が異なる。）作業説明の際に本日作成したパスワードを記憶または記録するようお願いしましたが、どのように対応されましたか?|
+|Creating a password during this study was annoying | この調査でパスワードを作成するのは面倒だった|
+|Creating a password during this study was fun | この調査でパスワードを作るのは楽しかった|
+|Creating a password during this study was difficult | この調査でパスワードを作るのは難しかった|
+|Please explain why creating a password during this study was/was not difficult | この調査中にパスワードを作成することが難しかった/難しくなかった理由を説明してください|
+|Which of the following best describes your approach to creating your password in this study?|この調査でパスワードを作成するためのあなたのアプローチを最もよく表しているのは次のうちどれですか?|
+|In general, I am confident in my ability to create strong passwords|一般的に見て、私は強力なパスワードを作成する能力に自信を持っている|
+|The colored bar helped me create a stronger password|色付きのバーにより、より強力なパスワードを作成できた|
+The colored bar was informative|色付きのバーは役立った|
+|Because of the colored bar, I created a different password than I would have otherwise|色付きのバーがあるため、他の方法で異なるパスワードを作成した|
+|It’s important to me that the colored bar gives my password a high score|色付きのバーにより自分のパスワードが高得点になることは重要である|
+|What is your opinion of the accuracy of the colored bar’s rating?|色付きのバーにより自分のパスワードが高得点になることは重要である|
+|Do you have any other thoughts about the colored bar?|色付きのバーについて他に意見があればお聞かせください|
+|The text feedback helped me create a stronger password.|テキストフィードバックにより、より強力なパスワードを作成できた|
+|The text feedback was informative|テキストフィードバックは役立った|
+|Because of the text feedback, I created a different password than I would have otherwise|テキストフィードバックがあるため、他の方法で異なるパスワードを作成した|
+|It’s important to me that I follow the suggested changes to my password provided by the text feedback|テキストフィードバックによるパスワード変更の提案に従うことは私にとって重要だ|
+|What is your opinion of the appropriateness of the text feedback?|テキストフィードバックの妥当性についてのご意見をお聞かせください
+|Do you have any other thoughts about the text feedback?|他に意見があればお聞かせください|
+|Were any passwords you tried to create rejected for the specific reason shown above(highlighted in orange)?|上記の理由(オレンジ色で強調表示されています)により、作成しようとしていたパスワードは拒否されましたか|
